@@ -6,7 +6,7 @@ Esse projeto foi feito para aperfeiçoar minhas habilidades</br>
 # Apresentação 👀🔒
 
 <p align="center">
-  <img alt="Imagem de apresentação" src="./apresentacao/Mariogame.png" width="100%">
+  <img alt="Imagem de apresentação" src="./apresentacao/Mariogame.PNG" width="100%">
 </p>
 
 # Tecnologias 💻
