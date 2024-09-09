@@ -1,6 +1,6 @@
-<h1 align="center"> Mario Game🔒</h1>
+<h1 align="center"> Mario Game</h1>
 
-# Sobre o gerador ⚙️
+# Sobre o Game
 Esse projeto foi feito para aperfeiçoar minhas habilidades</br>
 
 # Apresentação 👀🔒
