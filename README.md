@@ -9,6 +9,11 @@ Esse projeto foi feito para aperfeiçoar minhas habilidades</br>
   <img alt="Imagem de apresentação" src="./apresentacao/Mariogame.PNG" width="100%">
 </p>
 
+## Como acessar o projeto? 🤔
+
+Basta clicar [AQUI](https://paulocesargit.github.io/Game-Mario/) que você será direcionado!
+
+
 # Tecnologias 💻
 - HTML.
 - CSS.
