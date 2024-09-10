@@ -12,7 +12,6 @@ const startGame = () => {
   pipe.classList.add('pipe-animation')
   start.style.display = 'none'
 
-  // audio
   audioStart.play()
 }
 
