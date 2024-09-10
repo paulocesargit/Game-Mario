@@ -3,7 +3,7 @@
 # Sobre o Game 🎮
 Esse projeto foi feito para aperfeiçoar minhas habilidades</br>
 
-# Apresentação 👀🔒
+# Apresentação 👀
 
 <p align="center">
   <img alt="Imagem de apresentação" src="./apresentacao/Mariogame.PNG" width="100%">
