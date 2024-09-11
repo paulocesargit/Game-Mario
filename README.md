@@ -11,7 +11,7 @@ Esse projeto foi feito para aperfeiçoar minhas habilidades</br>
 
 # Como acessar o projeto? 🤔
 
-Basta clicar [AQUI](https://paulocesargit.github.io/Game-Mario) que você será direcionado!
+Basta clicar [AQUI]( https://paulocesargit.github.io/Game-Mario/) que você será direcionado!
 
 # Tecnologias 💻
 - HTML.
